@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-I made a Pomodoro timer for my final project, where I utilized UART for communication to select the specific time for the timer.
+I made a Pomodoro timer , where I utilized UART for communication to select the specific time for the timer.
 Pressing 0 would be for `10 seconds`, 1 for `20 minutes` which is usually how long the Pomodoro timer is, 2 for `25 minutes`, and 3 for `30 minutes`. 
 
 After these timers are done, a `5 min break` is issued and we can see a green light on the RGB. On the LEDs, we can see which button is getting pressed.
